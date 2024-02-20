@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Tasovios
+- 👀 I’m interested in JS and python
+- 🌱 I’m currently learning html/css JS PHP Python C#
+- 💞️
+- 📫
