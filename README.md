@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @Tasovios
-- 👀 I’m interested in C#, Unity, React and python
+- 👋 Hi! I’m Tasovios
+- 👀 I’m interested in C#, Unity, React and Python!
 - 🌱 I’m currently learning JS Python C#
